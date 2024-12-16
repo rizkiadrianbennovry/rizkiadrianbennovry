@@ -2,14 +2,16 @@
 
 **A passionate  Data Scientist with a strong interest in solving real-world problems through data-driven insights.**
 
-**💼 What I Do
-Build robust predictive models using tools like Python (Pandas, Scikit-learn, TensorFlow) and R.
+**💼 What I Do**
+
+**Build robust predictive models using tools like Python (Pandas, Scikit-learn, TensorFlow) and R.
 Explore big data with frameworks like Spark and SQL.
 Visualize insights with Matplotlib, Seaborn, and Tableau.
 Experiment with deep learning techniques, including CNNs and RNNs, for advanced analytics.**
 
-**🌱 Always Learning
-Currently enhancing my skills in time series forecasting, NLP, and cloud computing for AI/ML workflows.**  
+**🌱 Always Learning**
+
+**Currently enhancing my skills in time series forecasting, NLP, and cloud computing for AI/ML workflows.**  
 
 - 🌱 I’m currently learning **[Technologies, Tools]**  
 - 👨‍💻 All of my projects are available at [GitHub URL](https://github.com/rizkiadrianbennovry)  
