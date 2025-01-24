@@ -66,6 +66,5 @@ Experiment with deep learning techniques, including CNNs and RNNs, for advanced 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkiadrianbennovry&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" width="304" />
   <img src="https://github-readme-stats.vercel.app/api?username=rizkiadrianbennovry&show_icons=true&locale=en" alt="GitHub Stats" width="339" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkiadrianbennovry&" alt="rizkiadrianbennovry" width="359" />
 </div>
 
